@@ -14,6 +14,7 @@ In this lab, we will present a scenario where Visual Studio Team Services (VSTS)
 
 <div class="bg-slap"><img src="./media/mslearn.png" class="img-icon-cloud" alt="MS teams" style="width: 48px; height: 48px;">Want additional learning? Check out the <a href="https://docs.microsoft.com/en-us/learn/modules/deploy-nodejs/" target="_blank"><b><u> Automate Node.js deployments with Azure Pipelines </u></b></a> module on Microsoft Learn.</div>
 
+
 ## Prerequisites
 
 1. If you don't already have a Visual Studio Dev Essentials and Visual Studio Team Services account, create one at [my.visualstudio.com](http://my.visualstudio.com).
